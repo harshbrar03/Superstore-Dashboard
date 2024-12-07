@@ -3,7 +3,7 @@ This `screenshots/` folder contains four screenshots representing different dash
 
 ## Sales Overview Dashboard: 
 A snapshot of total sales, quantity sold, customer count, and key performance indicators.
-    [Sales Overview Dashboard](sales_overview.PNG)
+    ![Sales Overview Dashboard](sales_overview.PNG)
 ## **Customer Insights Dashboard**: 
 ### Displays customer-related data, including orders by state and repeat customers.
     ![Dashboard Preview](customer_insights.PNG)
