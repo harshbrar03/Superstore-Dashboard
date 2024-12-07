@@ -5,7 +5,7 @@ This repository showcases a set of Power BI dashboards created using the Superst
 1. **Sales Overview**
 2. **Profit Overview**
 3. **Customer Insights**
-4. **Sales Managers**
+4. **Sales Managers Insights**
 
 ## Contents
 - `Superstore.xls`: The dataset used for the dashboards.
