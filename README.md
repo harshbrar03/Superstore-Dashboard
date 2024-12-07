@@ -14,7 +14,7 @@ This repository showcases a set of Power BI dashboards created using the Superst
 
 ## How to Use
 1. Download the dataset (`Superstore.xls`) and open it in your Power BI environment.
-2. Open the Power BI file (`Sales_Dashboards.pbix`) or import the dataset into a new Power BI project.
+2. Open the Power BI file (`superstore dashboard.pbix`) or import the dataset into a new Power BI project.
 3. Customize the dashboards as needed for your own analysis or use the existing ones for business insights.
 
 ## Dashboards Overview
