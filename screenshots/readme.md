@@ -2,7 +2,7 @@
 This `screenshots/` folder contains four screenshots representing different dashboards created using the Superstore dataset. These screenshots provide a visual preview of the dashboards’ layout and design. The dashboards cover:
 
 1. **Sales Overview Dashboard**: A snapshot of total sales, quantity sold, customer count, and key performance indicators.<br>
-    ![Dashboard Preview](sales_overview.PNG)
+    ![Sales Overview Dashboard](sales_overview.PNG)
 3. **Customer Insights Dashboard**: Displays customer-related data, including orders by state and repeat customers. <br>
     ![Dashboard Preview](customer_insights.PNG)
 4. **Profit Overview Dashboard**: Highlights profit trends, total profit, and profit by category.<br>
