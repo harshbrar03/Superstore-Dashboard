@@ -9,7 +9,7 @@ This repository showcases a set of Power BI dashboards created using the Superst
 
 ## Contents
 - `Superstore.xls`: The dataset used for the dashboards.
-- `superstore dashboards.pbix`: The Power BI file containing the dashboards (if shareable).
+- `superstore dashboard.pbix`: The Power BI file containing the dashboards.
 - `screenshots/`: A folder containing screenshots or PDF exports of the dashboards.
 
 ## How to Use
