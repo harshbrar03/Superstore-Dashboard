@@ -10,13 +10,13 @@ This repository showcases a set of Power BI dashboards created using the **Super
 Each dashboard includes slicers for selecting data by year (2014, 2015, 2016, 2017) to view data for individual years or all years collectively.
 
 ## Contents
-- `Superstore.xls`: The dataset used for the dashboards.
-- `superstore dashboard.pbix`: The Power BI file containing the dashboards.
+- `Superstore.xls`: The dataset used for the dashboards, sourced from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
+- `superstore_dashboard.pbix`: The Power BI file containing the dashboards.
 - `screenshots/`: A folder containing screenshots or PDF exports of the dashboards.
 
 ## How to Use
 1. Download the dataset (`Superstore.xls`) and open it in your Power BI environment.
-2. Open the Power BI file (`superstore dashboard.pbix`) or import the dataset into a new Power BI project.
+2. Open the Power BI file (`superstore_dashboard.pbix`) or import the dataset into a new Power BI project.
 3. Customize the dashboards as needed for your own analysis or use the existing ones for business insights.
 
 ## Dashboards Overview
@@ -50,4 +50,4 @@ Each dashboard includes slicers for selecting data by year (2014, 2015, 2016, 20
 - The dataset (`Superstore.xls`) can also be used in other data analysis tools like Excel, Tableau, etc.
 
 ## Acknowledgements
-Thanks to the creators of the Superstore dataset.
+Thanks to the creators of the Superstore dataset, available from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
