@@ -6,4 +6,4 @@ This `screenshots/` folder contains four screenshots representing different dash
 3. **Profit Overview Dashboard**: Highlights profit trends, total profit, and profit by category.
 4. **Sales Managers Insights Dashboard**: Provides sales performance metrics and profit by region for different managers.
 
-While these are static images, you can interact with the dashboards in the Power BI file (`superstore_dashboard.pbix`) to explore data in real time.
+While these are static images, you can interact with the dashboards in the Power BI file (`superstore dashboard.pbix`) to explore data in real time.
