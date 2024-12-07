@@ -13,4 +13,4 @@ Highlights profit trends, total profit, and profit by category.<br><br>
 ## Sales Managers Insights Dashboard: 
 Provides sales performance metrics and profit by region for different managers.<br><br>
 ![Dashboard Preview](sales_managers_insights.PNG)
-While these are static images, you can interact with the dashboards in the Power BI file ![superstore dashboard.pbix]`superstore dashboard.pbix` to explore data in real time.
+While these are static images, you can interact with the dashboards in the Power BI file `superstore dashboard.pbix` to explore data in real time.
