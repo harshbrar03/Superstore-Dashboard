@@ -4,9 +4,9 @@ This `screenshots/` folder contains four screenshots representing different dash
 1. **Sales Overview Dashboard**: A snapshot of total sales, quantity sold, customer count, and key performance indicators.
     ![Dashboard Preview](sales_overview.PNG)
 2. **Customer Insights Dashboard**: Displays customer-related data, including orders by state and repeat customers.
-    ![Dashboard Preview](customer_insights.png)
+    ![Dashboard Preview](customer_insights.PNG)
 3. **Profit Overview Dashboard**: Highlights profit trends, total profit, and profit by category.
-    ![Dashboard Preview](profit_overview.png)
+    ![Dashboard Preview](profit_overview.PNG)
 4. **Sales Managers Insights Dashboard**: Provides sales performance metrics and profit by region for different managers.
-    ![Dashboard Preview](sales_managers_insights.png)
+    ![Dashboard Preview](sales_managers_insights.PNG)
 While these are static images, you can interact with the dashboards in the Power BI file (`superstore dashboard.pbix`) to explore data in real time.
