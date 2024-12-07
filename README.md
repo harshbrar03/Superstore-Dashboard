@@ -30,7 +30,7 @@ Each dashboard includes slicers for selecting data by year (2014, 2015, 2016, 20
   - Number of orders and customers.
   - Average shipping time (in days).
   - Orders by state.
-  - Repeat top 10 customers.
+  - Repeated top 10 customers.
   - Ship mode analysis.
 
 - **Profit Overview:** 
