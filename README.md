@@ -14,16 +14,6 @@ Each dashboard includes slicers for selecting data by year (2014, 2015, 2016, 20
 - `superstore_dashboard.pbix`: The Power BI file containing the dashboards.
 - `screenshots/`: A folder containing screenshots of the dashboards.
 
-## Screenshots
-The `screenshots/` folder contains four screenshots representing different dashboards created using the Superstore dataset. These screenshots provide a visual preview of the dashboards’ layout and design. The dashboards cover:
-
-1. **Sales Overview Dashboard**: A snapshot of total sales, quantity sold, customer count, and key performance indicators.
-2. **Customer Insights Dashboard**: Displays customer-related data, including orders by state and repeat customers.
-3. **Profit Overview Dashboard**: Highlights profit trends, total profit, and profit by category.
-4. **Sales Managers Insights Dashboard**: Provides sales performance metrics and profit by region for different managers.
-
-While these are static images, you can interact with the dashboards in the Power BI file (`superstore_dashboard.pbix`) to explore data in real time. Unfortunately, no video or additional interactive demonstration is available in this repository.
-
 ## How to Use
 1. Download the dataset (`Superstore.xls`) and open it in your Power BI environment.
 2. Open the Power BI file (`superstore_dashboard.pbix`) or import the dataset into a new Power BI project.
