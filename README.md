@@ -14,40 +14,48 @@ Each dashboard includes slicers for selecting data by year (2014, 2015, 2016, 20
 - `superstore dashboard.pbix`: The Power BI file containing the dashboards.
 - `screenshots/`: A folder containing screenshots of the dashboards.
 
-## How to Use
-1. Download the dataset (`Superstore.xls`) and open it in your Power BI environment.
-2. Open the Power BI file (`superstore dashboard.pbix`) or import the dataset into a new Power BI project.
-3. Customize the dashboards as needed for your own analysis or use the existing ones for business insights.
-
-## Dashboards Overview
-- **Sales Overview:** 
-  - Total sales, total quantity sold, total customers, and average order value.
-  - Sales trend by months.
-  - Top-performing categories and subcategories.
-  - Top 10 customers by sales.
-
-- **Customer Insights:** 
-  - Number of orders and customers.
-  - Average shipping time (in days).
-  - Orders by state.
-  - Repeated top 10 customers.
-  - Ship mode analysis.
-
-- **Profit Overview:** 
-  - Total profit, average profit per order.
-  - Total sales and profit trends by months.
-  - Profit by categories and subcategories.
-  - Top 10 products by sales.
-
-- **Sales Managers Insights:** 
-  - Number of managers and total profit.
-  - Tabular format with manager names and their assigned regions.
-  - Profit by regions using a pie chart.
-  - Sales performance by managers.
-
 ## Requirements
 - Power BI Desktop (Free version).
 - The dataset (`Superstore.xls`) can also be used in other data analysis tools like Excel, Tableau, etc.
+
+## How to Use
+1. **Download the dataset**:  
+   - Download the `Superstore.xls` file and save it on your computer.
+
+2. **Open Power BI**:  
+   - Launch Power BI Desktop on your computer.
+
+3. **Import the dataset**:
+   - In Power BI, click on **Home** > **Get Data** > **Excel**.
+   - Select the `Superstore.xls` file from your saved location and load it into Power BI.
+
+4. **Open the Power BI file**:
+   - If you already have the pre-built Power BI file (`superstore dashboard.pbix`), open it directly by clicking **File** > **Open** and selecting the `.pbix` file.
+   - Alternatively, import the dataset into a new Power BI project and create dashboards from scratch.
+
+5. **Customize the dashboards**:
+   - Use the existing dashboards or modify them to suit your analysis or business needs.
+   - You can change visualizations, add filters, or adjust slicers as required.
+
+## Dashboards Overview
+### Sales Overview:
+A snapshot of total sales, quantity sold, customer count, and key performance indicators.<br><br>
+![Sales Overview Dashboard](screenshots/sales_overview.PNG)
+
+### Customer Insights Dashboard: 
+Displays customer-related data, including orders by state and repeat customers.<br><br>
+![Customer Insights Dashboard](screenshots/customer_insights.PNG)
+
+### Profit Overview Dashboard: 
+Highlights profit trends, total profit, and profit by category.<br><br>
+![Profit Overview Dashboard](screenshots/profit_overview.PNG)
+
+### Sales Managers Insights Dashboard: 
+Provides sales performance metrics and profit by region for different managers.<br><br>
+![Dashboard Preview](screenshots/sales_managers_insights.PNG)
+
+### Note:
+While these are static images, you can interact with the dashboards in the Power BI file `superstore dashboard.pbix` to explore data in real time.
 
 ## Acknowledgements
 Thanks to the creators of the Superstore dataset, available from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
